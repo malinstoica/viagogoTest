@@ -14,7 +14,7 @@
 
 3. Change directory to /viagogoDeveloperTest/app
 
-    * by <code>cd viagogoDeveloperTest </code> and <code> cd app</code> in terminal
+    * by <code>cd viagogoTest </code> and <code> cd app</code> in terminal
 
     * double click <code> viagogoDeveloperTest</code> folder and then <code> app </code> folder
 
